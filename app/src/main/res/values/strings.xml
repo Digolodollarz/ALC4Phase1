@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_zimbabwe">Country: Zimbabwe</string>
+    <string name="developer_email">Email: edmoregonese@gmail.com</string>
+    <string name="developer_phone">Phone Number: 263774883687</string>
+    <string name="slack_username_digolodollarz">Slack Username: @digolodollarz</string>
+    <string name="edmore_m_gonese">Edmore M Gonese</string>
+</resources>
